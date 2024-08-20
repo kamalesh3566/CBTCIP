@@ -54,20 +54,6 @@ By sharing this project, I aim to showcase my technical skills and commitment to
 
 **Running the Project**:
 1. Clone the Repository or Download the Project Files
-2. ### 2. Spam Email Detection
-
-**Description**: The Spam Email Detection project focuses on building a model to classify emails as spam or non-spam (ham) using machine learning techniques. This project aims to filter out unwanted emails, enhancing productivity and reducing exposure to potential scams and phishing attempts.
-
-**Directory**: [SpamEmailDetection](SpamEmailDetection/)
-
-**Key Files**:
-- `Spam.ipynb`: Jupyter Notebook with the project code.
-- `README.md`: Documentation for the Spam Email Detection project.
-- `Spam Email Detection.xlsx`: Dataset containing labeled email data.
-- `.gitattributes` and `.gitignore`: Configuration files for Git.
-
-**Running the Project**:
-1. Clone the Repository or Download the Project Files
 2. Ensure all required libraries are installed:
    ```bash
    pip install pandas scikit-learn matplotlib seaborn
